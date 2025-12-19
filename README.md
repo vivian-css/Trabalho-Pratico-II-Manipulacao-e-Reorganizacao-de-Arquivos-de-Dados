@@ -1,10 +1,5 @@
 # Trabalho Prático II- Manipulação e Reorganizao de Arquivos de Dados
 
-Trabalho Prático 02 – Manipulação e Reorganização de Arquivos de Dados
-Autora: Vivian Cristina Santana de Souza Lopes
-Disciplina: Algoritmos e Estruturas de Dados II
-
-Introdução
 Este projeto simula operações de manutenção em arquivos de dados estruturados em blocos, abordando problemas como fragmentação interna e externa, desperdício de espaço e perda de desempenho.
 O arquivo alunos.dat é utilizado para armazenar registros de forma persistente, permitindo implementar inserção, exclusão lógica, edição, reaproveitamento de espaço livre, reorganização física e relatórios de eficiência.
 
