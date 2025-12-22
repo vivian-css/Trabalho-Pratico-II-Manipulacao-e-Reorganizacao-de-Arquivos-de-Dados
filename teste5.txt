@@ -1,0 +1,234 @@
+Deseja gerar registros ficticios?
+1-Sim | 0-Nao: 1
+Quantidade de registros: 15
+Tamanho do bloco (bytes): 512
+Tipo de registro (1-Fixo | 2-Variavel): 1
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha: 4
+
+===== REGISTROS =====
+Mat:1001 | Nome:Aluno_1 | Curso:Curso_1 | Ano:2019 | Coef:7.00
+Mat:1002 | Nome:Aluno_2 | Curso:Curso_2 | Ano:2020 | Coef:8.00
+Mat:1003 | Nome:Aluno_3 | Curso:Curso_3 | Ano:2021 | Coef:9.00
+Mat:1004 | Nome:Aluno_4 | Curso:Curso_4 | Ano:2022 | Coef:6.00
+Mat:1005 | Nome:Aluno_5 | Curso:Curso_0 | Ano:2018 | Coef:7.00
+Mat:1006 | Nome:Aluno_6 | Curso:Curso_1 | Ano:2019 | Coef:8.00
+Mat:1007 | Nome:Aluno_7 | Curso:Curso_2 | Ano:2020 | Coef:9.00
+Mat:1008 | Nome:Aluno_8 | Curso:Curso_3 | Ano:2021 | Coef:6.00
+Mat:1009 | Nome:Aluno_9 | Curso:Curso_4 | Ano:2022 | Coef:7.00
+Mat:1010 | Nome:Aluno_10 | Curso:Curso_0 | Ano:2018 | Coef:8.00
+Mat:1011 | Nome:Aluno_11 | Curso:Curso_1 | Ano:2019 | Coef:9.00
+Mat:1012 | Nome:Aluno_12 | Curso:Curso_2 | Ano:2020 | Coef:6.00
+Mat:1013 | Nome:Aluno_13 | Curso:Curso_3 | Ano:2021 | Coef:7.00
+Mat:1014 | Nome:Aluno_14 | Curso:Curso_4 | Ano:2022 | Coef:8.00
+Mat:1015 | Nome:Aluno_15 | Curso:Curso_0 | Ano:2018 | Coef:9.00
+Ativos: 15 | Excluidos: 0
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha: 3
+Matricula para excluir: 1007
+Registro removido logicamente.
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha: 3
+Matricula para excluir: 108
+Registro nao encontrado.
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha: 3
+Matricula para excluir: 1008
+Registro removido logicamente.
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha: 3
+Matricula para excluir: 1009
+Registro removido logicamente.
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha: 3
+Matricula para excluir: 1010
+Registro removido logicamente.
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha: 1
+Matricula: 3433
+Nome: Vivian
+CPF: 324234343
+Curso: Economia
+Mae: Ana
+Pai: Jose
+Ano de ingresso: 2025
+Coeficiente: 5.4
+Registro inserido em espaco reaproveitado.
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha: 4
+
+===== REGISTROS =====
+Mat:1001 | Nome:Aluno_1 | Curso:Curso_1 | Ano:2019 | Coef:7.00
+Mat:1002 | Nome:Aluno_2 | Curso:Curso_2 | Ano:2020 | Coef:8.00
+Mat:1003 | Nome:Aluno_3 | Curso:Curso_3 | Ano:2021 | Coef:9.00
+Mat:1004 | Nome:Aluno_4 | Curso:Curso_4 | Ano:2022 | Coef:6.00
+Mat:1005 | Nome:Aluno_5 | Curso:Curso_0 | Ano:2018 | Coef:7.00
+Mat:1006 | Nome:Aluno_6 | Curso:Curso_1 | Ano:2019 | Coef:8.00
+Mat:3433 | Nome:Vivian | Curso:Economia | Ano:2025 | Coef:5.40
+Mat:1011 | Nome:Aluno_11 | Curso:Curso_1 | Ano:2019 | Coef:9.00
+Mat:1012 | Nome:Aluno_12 | Curso:Curso_2 | Ano:2020 | Coef:6.00
+Mat:1013 | Nome:Aluno_13 | Curso:Curso_3 | Ano:2021 | Coef:7.00
+Mat:1014 | Nome:Aluno_14 | Curso:Curso_4 | Ano:2022 | Coef:8.00
+Mat:1015 | Nome:Aluno_15 | Curso:Curso_0 | Ano:2018 | Coef:9.00
+Ativos: 12 | Excluidos: 3
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha: 3
+Matricula para excluir: 1003
+Registro removido logicamente.
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha: 3
+Matricula para excluir: 1004
+Registro removido logicamente.
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha: 4
+
+===== REGISTROS =====
+Mat:1001 | Nome:Aluno_1 | Curso:Curso_1 | Ano:2019 | Coef:7.00
+Mat:1002 | Nome:Aluno_2 | Curso:Curso_2 | Ano:2020 | Coef:8.00
+Mat:1005 | Nome:Aluno_5 | Curso:Curso_0 | Ano:2018 | Coef:7.00
+Mat:1006 | Nome:Aluno_6 | Curso:Curso_1 | Ano:2019 | Coef:8.00
+Mat:3433 | Nome:Vivian | Curso:Economia | Ano:2025 | Coef:5.40
+Mat:1011 | Nome:Aluno_11 | Curso:Curso_1 | Ano:2019 | Coef:9.00
+Mat:1012 | Nome:Aluno_12 | Curso:Curso_2 | Ano:2020 | Coef:6.00
+Mat:1013 | Nome:Aluno_13 | Curso:Curso_3 | Ano:2021 | Coef:7.00
+Mat:1014 | Nome:Aluno_14 | Curso:Curso_4 | Ano:2022 | Coef:8.00
+Mat:1015 | Nome:Aluno_15 | Curso:Curso_0 | Ano:2018 | Coef:9.00
+Ativos: 10 | Excluidos: 5
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha: 5
+
+===== MAPA DE OCUPACAO =====
+Bloco 1: 504 usados | 8 livres | 98.4%
+Bloco 2: 504 usados | 8 livres | 98.4%
+Bloco 3: 504 usados | 8 livres | 98.4%
+Bloco 4: 504 usados | 8 livres | 98.4%
+Bloco 5: 504 usados | 8 livres | 98.4%
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha: 6
+
+===== RELATORIO DE REORGANIZACAO =====
+Antes:
+Blocos: 5
+Ocupacao media: 98.4%
+EficiÛncia total: 98.4%
+Depois:
+Blocos: 4
+Ocupacao media: 82.0%
+EficiÛncia total: 82.0%
+Ganho de eficiencia: -16.4%
+Blocos liberados: 1
+=====================================
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha:

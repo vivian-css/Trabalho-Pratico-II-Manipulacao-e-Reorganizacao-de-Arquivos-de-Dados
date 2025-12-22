@@ -1,0 +1,334 @@
+Deseja gerar registros ficticios?
+1-Sim | 0-Nao: 1
+Quantidade de registros: 100
+Tamanho do bloco (bytes): 512
+Tipo de registro (1-Fixo | 2-Variavel): 2
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha: 4
+
+===== REGISTROS =====
+Mat:1001 | Nome:Aluno_1 | Curso:Curso_1 | Ano:2019 | Coef:7.00
+Mat:1002 | Nome:Aluno_2 | Curso:Curso_2 | Ano:2020 | Coef:8.00
+Mat:1003 | Nome:Aluno_3 | Curso:Curso_3 | Ano:2021 | Coef:9.00
+Mat:1004 | Nome:Aluno_4 | Curso:Curso_4 | Ano:2022 | Coef:6.00
+Mat:1005 | Nome:Aluno_5 | Curso:Curso_0 | Ano:2018 | Coef:7.00
+Mat:1006 | Nome:Aluno_6 | Curso:Curso_1 | Ano:2019 | Coef:8.00
+Mat:1007 | Nome:Aluno_7 | Curso:Curso_2 | Ano:2020 | Coef:9.00
+Mat:1008 | Nome:Aluno_8 | Curso:Curso_3 | Ano:2021 | Coef:6.00
+Mat:1009 | Nome:Aluno_9 | Curso:Curso_4 | Ano:2022 | Coef:7.00
+Mat:1010 | Nome:Aluno_10 | Curso:Curso_0 | Ano:2018 | Coef:8.00
+Mat:1011 | Nome:Aluno_11 | Curso:Curso_1 | Ano:2019 | Coef:9.00
+Mat:1012 | Nome:Aluno_12 | Curso:Curso_2 | Ano:2020 | Coef:6.00
+Mat:1013 | Nome:Aluno_13 | Curso:Curso_3 | Ano:2021 | Coef:7.00
+Mat:1014 | Nome:Aluno_14 | Curso:Curso_4 | Ano:2022 | Coef:8.00
+Mat:1015 | Nome:Aluno_15 | Curso:Curso_0 | Ano:2018 | Coef:9.00
+Mat:1016 | Nome:Aluno_16 | Curso:Curso_1 | Ano:2019 | Coef:6.00
+Mat:1017 | Nome:Aluno_17 | Curso:Curso_2 | Ano:2020 | Coef:7.00
+Mat:1018 | Nome:Aluno_18 | Curso:Curso_3 | Ano:2021 | Coef:8.00
+Mat:1019 | Nome:Aluno_19 | Curso:Curso_4 | Ano:2022 | Coef:9.00
+Mat:1020 | Nome:Aluno_20 | Curso:Curso_0 | Ano:2018 | Coef:6.00
+Mat:1021 | Nome:Aluno_21 | Curso:Curso_1 | Ano:2019 | Coef:7.00
+Mat:1022 | Nome:Aluno_22 | Curso:Curso_2 | Ano:2020 | Coef:8.00
+Mat:1023 | Nome:Aluno_23 | Curso:Curso_3 | Ano:2021 | Coef:9.00
+Mat:1024 | Nome:Aluno_24 | Curso:Curso_4 | Ano:2022 | Coef:6.00
+Mat:1025 | Nome:Aluno_25 | Curso:Curso_0 | Ano:2018 | Coef:7.00
+Mat:1026 | Nome:Aluno_26 | Curso:Curso_1 | Ano:2019 | Coef:8.00
+Mat:1027 | Nome:Aluno_27 | Curso:Curso_2 | Ano:2020 | Coef:9.00
+Mat:1028 | Nome:Aluno_28 | Curso:Curso_3 | Ano:2021 | Coef:6.00
+Mat:1029 | Nome:Aluno_29 | Curso:Curso_4 | Ano:2022 | Coef:7.00
+Mat:1030 | Nome:Aluno_30 | Curso:Curso_0 | Ano:2018 | Coef:8.00
+Mat:1031 | Nome:Aluno_31 | Curso:Curso_1 | Ano:2019 | Coef:9.00
+Mat:1032 | Nome:Aluno_32 | Curso:Curso_2 | Ano:2020 | Coef:6.00
+Mat:1033 | Nome:Aluno_33 | Curso:Curso_3 | Ano:2021 | Coef:7.00
+Mat:1034 | Nome:Aluno_34 | Curso:Curso_4 | Ano:2022 | Coef:8.00
+Mat:1035 | Nome:Aluno_35 | Curso:Curso_0 | Ano:2018 | Coef:9.00
+Mat:1036 | Nome:Aluno_36 | Curso:Curso_1 | Ano:2019 | Coef:6.00
+Mat:1037 | Nome:Aluno_37 | Curso:Curso_2 | Ano:2020 | Coef:7.00
+Mat:1038 | Nome:Aluno_38 | Curso:Curso_3 | Ano:2021 | Coef:8.00
+Mat:1039 | Nome:Aluno_39 | Curso:Curso_4 | Ano:2022 | Coef:9.00
+Mat:1040 | Nome:Aluno_40 | Curso:Curso_0 | Ano:2018 | Coef:6.00
+Mat:1041 | Nome:Aluno_41 | Curso:Curso_1 | Ano:2019 | Coef:7.00
+Mat:1042 | Nome:Aluno_42 | Curso:Curso_2 | Ano:2020 | Coef:8.00
+Mat:1043 | Nome:Aluno_43 | Curso:Curso_3 | Ano:2021 | Coef:9.00
+Mat:1044 | Nome:Aluno_44 | Curso:Curso_4 | Ano:2022 | Coef:6.00
+Mat:1045 | Nome:Aluno_45 | Curso:Curso_0 | Ano:2018 | Coef:7.00
+Mat:1046 | Nome:Aluno_46 | Curso:Curso_1 | Ano:2019 | Coef:8.00
+Mat:1047 | Nome:Aluno_47 | Curso:Curso_2 | Ano:2020 | Coef:9.00
+Mat:1048 | Nome:Aluno_48 | Curso:Curso_3 | Ano:2021 | Coef:6.00
+Mat:1049 | Nome:Aluno_49 | Curso:Curso_4 | Ano:2022 | Coef:7.00
+Mat:1050 | Nome:Aluno_50 | Curso:Curso_0 | Ano:2018 | Coef:8.00
+Mat:1051 | Nome:Aluno_51 | Curso:Curso_1 | Ano:2019 | Coef:9.00
+Mat:1052 | Nome:Aluno_52 | Curso:Curso_2 | Ano:2020 | Coef:6.00
+Mat:1053 | Nome:Aluno_53 | Curso:Curso_3 | Ano:2021 | Coef:7.00
+Mat:1054 | Nome:Aluno_54 | Curso:Curso_4 | Ano:2022 | Coef:8.00
+Mat:1055 | Nome:Aluno_55 | Curso:Curso_0 | Ano:2018 | Coef:9.00
+Mat:1056 | Nome:Aluno_56 | Curso:Curso_1 | Ano:2019 | Coef:6.00
+Mat:1057 | Nome:Aluno_57 | Curso:Curso_2 | Ano:2020 | Coef:7.00
+Mat:1058 | Nome:Aluno_58 | Curso:Curso_3 | Ano:2021 | Coef:8.00
+Mat:1059 | Nome:Aluno_59 | Curso:Curso_4 | Ano:2022 | Coef:9.00
+Mat:1060 | Nome:Aluno_60 | Curso:Curso_0 | Ano:2018 | Coef:6.00
+Mat:1061 | Nome:Aluno_61 | Curso:Curso_1 | Ano:2019 | Coef:7.00
+Mat:1062 | Nome:Aluno_62 | Curso:Curso_2 | Ano:2020 | Coef:8.00
+Mat:1063 | Nome:Aluno_63 | Curso:Curso_3 | Ano:2021 | Coef:9.00
+Mat:1064 | Nome:Aluno_64 | Curso:Curso_4 | Ano:2022 | Coef:6.00
+Mat:1065 | Nome:Aluno_65 | Curso:Curso_0 | Ano:2018 | Coef:7.00
+Mat:1066 | Nome:Aluno_66 | Curso:Curso_1 | Ano:2019 | Coef:8.00
+Mat:1067 | Nome:Aluno_67 | Curso:Curso_2 | Ano:2020 | Coef:9.00
+Mat:1068 | Nome:Aluno_68 | Curso:Curso_3 | Ano:2021 | Coef:6.00
+Mat:1069 | Nome:Aluno_69 | Curso:Curso_4 | Ano:2022 | Coef:7.00
+Mat:1070 | Nome:Aluno_70 | Curso:Curso_0 | Ano:2018 | Coef:8.00
+Mat:1071 | Nome:Aluno_71 | Curso:Curso_1 | Ano:2019 | Coef:9.00
+Mat:1072 | Nome:Aluno_72 | Curso:Curso_2 | Ano:2020 | Coef:6.00
+Mat:1073 | Nome:Aluno_73 | Curso:Curso_3 | Ano:2021 | Coef:7.00
+Mat:1074 | Nome:Aluno_74 | Curso:Curso_4 | Ano:2022 | Coef:8.00
+Mat:1075 | Nome:Aluno_75 | Curso:Curso_0 | Ano:2018 | Coef:9.00
+Mat:1076 | Nome:Aluno_76 | Curso:Curso_1 | Ano:2019 | Coef:6.00
+Mat:1077 | Nome:Aluno_77 | Curso:Curso_2 | Ano:2020 | Coef:7.00
+Mat:1078 | Nome:Aluno_78 | Curso:Curso_3 | Ano:2021 | Coef:8.00
+Mat:1079 | Nome:Aluno_79 | Curso:Curso_4 | Ano:2022 | Coef:9.00
+Mat:1080 | Nome:Aluno_80 | Curso:Curso_0 | Ano:2018 | Coef:6.00
+Mat:1081 | Nome:Aluno_81 | Curso:Curso_1 | Ano:2019 | Coef:7.00
+Mat:1082 | Nome:Aluno_82 | Curso:Curso_2 | Ano:2020 | Coef:8.00
+Mat:1083 | Nome:Aluno_83 | Curso:Curso_3 | Ano:2021 | Coef:9.00
+Mat:1084 | Nome:Aluno_84 | Curso:Curso_4 | Ano:2022 | Coef:6.00
+Mat:1085 | Nome:Aluno_85 | Curso:Curso_0 | Ano:2018 | Coef:7.00
+Mat:1086 | Nome:Aluno_86 | Curso:Curso_1 | Ano:2019 | Coef:8.00
+Mat:1087 | Nome:Aluno_87 | Curso:Curso_2 | Ano:2020 | Coef:9.00
+Mat:1088 | Nome:Aluno_88 | Curso:Curso_3 | Ano:2021 | Coef:6.00
+Mat:1089 | Nome:Aluno_89 | Curso:Curso_4 | Ano:2022 | Coef:7.00
+Mat:1090 | Nome:Aluno_90 | Curso:Curso_0 | Ano:2018 | Coef:8.00
+Mat:1091 | Nome:Aluno_91 | Curso:Curso_1 | Ano:2019 | Coef:9.00
+Mat:1092 | Nome:Aluno_92 | Curso:Curso_2 | Ano:2020 | Coef:6.00
+Mat:1093 | Nome:Aluno_93 | Curso:Curso_3 | Ano:2021 | Coef:7.00
+Mat:1094 | Nome:Aluno_94 | Curso:Curso_4 | Ano:2022 | Coef:8.00
+Mat:1095 | Nome:Aluno_95 | Curso:Curso_0 | Ano:2018 | Coef:9.00
+Mat:1096 | Nome:Aluno_96 | Curso:Curso_1 | Ano:2019 | Coef:6.00
+Mat:1097 | Nome:Aluno_97 | Curso:Curso_2 | Ano:2020 | Coef:7.00
+Mat:1098 | Nome:Aluno_98 | Curso:Curso_3 | Ano:2021 | Coef:8.00
+Mat:1099 | Nome:Aluno_99 | Curso:Curso_4 | Ano:2022 | Coef:9.00
+Mat:1100 | Nome:Aluno_100 | Curso:Curso_0 | Ano:2018 | Coef:6.00
+Ativos: 100 | Excluidos: 0
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha: 5
+
+===== MAPA DE OCUPACAO =====
+Bloco 1: 459 usados | 53 livres | 89.6%
+Bloco 2: 486 usados | 26 livres | 94.9%
+Bloco 3: 486 usados | 26 livres | 94.9%
+Bloco 4: 486 usados | 26 livres | 94.9%
+Bloco 5: 486 usados | 26 livres | 94.9%
+Bloco 6: 486 usados | 26 livres | 94.9%
+Bloco 7: 486 usados | 26 livres | 94.9%
+Bloco 8: 486 usados | 26 livres | 94.9%
+Bloco 9: 486 usados | 26 livres | 94.9%
+Bloco 10: 486 usados | 26 livres | 94.9%
+Bloco 11: 486 usados | 26 livres | 94.9%
+Bloco 12: 57 usados | 455 livres | 11.1%
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha: 3
+Matricula para excluir: 1088
+Registro removido logicamente.
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha: 3
+Matricula para excluir: 1089
+Registro removido logicamente.
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha: 4
+
+===== REGISTROS =====
+Mat:1001 | Nome:Aluno_1 | Curso:Curso_1 | Ano:2019 | Coef:7.00
+Mat:1002 | Nome:Aluno_2 | Curso:Curso_2 | Ano:2020 | Coef:8.00
+Mat:1003 | Nome:Aluno_3 | Curso:Curso_3 | Ano:2021 | Coef:9.00
+Mat:1004 | Nome:Aluno_4 | Curso:Curso_4 | Ano:2022 | Coef:6.00
+Mat:1005 | Nome:Aluno_5 | Curso:Curso_0 | Ano:2018 | Coef:7.00
+Mat:1006 | Nome:Aluno_6 | Curso:Curso_1 | Ano:2019 | Coef:8.00
+Mat:1007 | Nome:Aluno_7 | Curso:Curso_2 | Ano:2020 | Coef:9.00
+Mat:1008 | Nome:Aluno_8 | Curso:Curso_3 | Ano:2021 | Coef:6.00
+Mat:1009 | Nome:Aluno_9 | Curso:Curso_4 | Ano:2022 | Coef:7.00
+Mat:1010 | Nome:Aluno_10 | Curso:Curso_0 | Ano:2018 | Coef:8.00
+Mat:1011 | Nome:Aluno_11 | Curso:Curso_1 | Ano:2019 | Coef:9.00
+Mat:1012 | Nome:Aluno_12 | Curso:Curso_2 | Ano:2020 | Coef:6.00
+Mat:1013 | Nome:Aluno_13 | Curso:Curso_3 | Ano:2021 | Coef:7.00
+Mat:1014 | Nome:Aluno_14 | Curso:Curso_4 | Ano:2022 | Coef:8.00
+Mat:1015 | Nome:Aluno_15 | Curso:Curso_0 | Ano:2018 | Coef:9.00
+Mat:1016 | Nome:Aluno_16 | Curso:Curso_1 | Ano:2019 | Coef:6.00
+Mat:1017 | Nome:Aluno_17 | Curso:Curso_2 | Ano:2020 | Coef:7.00
+Mat:1018 | Nome:Aluno_18 | Curso:Curso_3 | Ano:2021 | Coef:8.00
+Mat:1019 | Nome:Aluno_19 | Curso:Curso_4 | Ano:2022 | Coef:9.00
+Mat:1020 | Nome:Aluno_20 | Curso:Curso_0 | Ano:2018 | Coef:6.00
+Mat:1021 | Nome:Aluno_21 | Curso:Curso_1 | Ano:2019 | Coef:7.00
+Mat:1022 | Nome:Aluno_22 | Curso:Curso_2 | Ano:2020 | Coef:8.00
+Mat:1023 | Nome:Aluno_23 | Curso:Curso_3 | Ano:2021 | Coef:9.00
+Mat:1024 | Nome:Aluno_24 | Curso:Curso_4 | Ano:2022 | Coef:6.00
+Mat:1025 | Nome:Aluno_25 | Curso:Curso_0 | Ano:2018 | Coef:7.00
+Mat:1026 | Nome:Aluno_26 | Curso:Curso_1 | Ano:2019 | Coef:8.00
+Mat:1027 | Nome:Aluno_27 | Curso:Curso_2 | Ano:2020 | Coef:9.00
+Mat:1028 | Nome:Aluno_28 | Curso:Curso_3 | Ano:2021 | Coef:6.00
+Mat:1029 | Nome:Aluno_29 | Curso:Curso_4 | Ano:2022 | Coef:7.00
+Mat:1030 | Nome:Aluno_30 | Curso:Curso_0 | Ano:2018 | Coef:8.00
+Mat:1031 | Nome:Aluno_31 | Curso:Curso_1 | Ano:2019 | Coef:9.00
+Mat:1032 | Nome:Aluno_32 | Curso:Curso_2 | Ano:2020 | Coef:6.00
+Mat:1033 | Nome:Aluno_33 | Curso:Curso_3 | Ano:2021 | Coef:7.00
+Mat:1034 | Nome:Aluno_34 | Curso:Curso_4 | Ano:2022 | Coef:8.00
+Mat:1035 | Nome:Aluno_35 | Curso:Curso_0 | Ano:2018 | Coef:9.00
+Mat:1036 | Nome:Aluno_36 | Curso:Curso_1 | Ano:2019 | Coef:6.00
+Mat:1037 | Nome:Aluno_37 | Curso:Curso_2 | Ano:2020 | Coef:7.00
+Mat:1038 | Nome:Aluno_38 | Curso:Curso_3 | Ano:2021 | Coef:8.00
+Mat:1039 | Nome:Aluno_39 | Curso:Curso_4 | Ano:2022 | Coef:9.00
+Mat:1040 | Nome:Aluno_40 | Curso:Curso_0 | Ano:2018 | Coef:6.00
+Mat:1041 | Nome:Aluno_41 | Curso:Curso_1 | Ano:2019 | Coef:7.00
+Mat:1042 | Nome:Aluno_42 | Curso:Curso_2 | Ano:2020 | Coef:8.00
+Mat:1043 | Nome:Aluno_43 | Curso:Curso_3 | Ano:2021 | Coef:9.00
+Mat:1044 | Nome:Aluno_44 | Curso:Curso_4 | Ano:2022 | Coef:6.00
+Mat:1045 | Nome:Aluno_45 | Curso:Curso_0 | Ano:2018 | Coef:7.00
+Mat:1046 | Nome:Aluno_46 | Curso:Curso_1 | Ano:2019 | Coef:8.00
+Mat:1047 | Nome:Aluno_47 | Curso:Curso_2 | Ano:2020 | Coef:9.00
+Mat:1048 | Nome:Aluno_48 | Curso:Curso_3 | Ano:2021 | Coef:6.00
+Mat:1049 | Nome:Aluno_49 | Curso:Curso_4 | Ano:2022 | Coef:7.00
+Mat:1050 | Nome:Aluno_50 | Curso:Curso_0 | Ano:2018 | Coef:8.00
+Mat:1051 | Nome:Aluno_51 | Curso:Curso_1 | Ano:2019 | Coef:9.00
+Mat:1052 | Nome:Aluno_52 | Curso:Curso_2 | Ano:2020 | Coef:6.00
+Mat:1053 | Nome:Aluno_53 | Curso:Curso_3 | Ano:2021 | Coef:7.00
+Mat:1054 | Nome:Aluno_54 | Curso:Curso_4 | Ano:2022 | Coef:8.00
+Mat:1055 | Nome:Aluno_55 | Curso:Curso_0 | Ano:2018 | Coef:9.00
+Mat:1056 | Nome:Aluno_56 | Curso:Curso_1 | Ano:2019 | Coef:6.00
+Mat:1057 | Nome:Aluno_57 | Curso:Curso_2 | Ano:2020 | Coef:7.00
+Mat:1058 | Nome:Aluno_58 | Curso:Curso_3 | Ano:2021 | Coef:8.00
+Mat:1059 | Nome:Aluno_59 | Curso:Curso_4 | Ano:2022 | Coef:9.00
+Mat:1060 | Nome:Aluno_60 | Curso:Curso_0 | Ano:2018 | Coef:6.00
+Mat:1061 | Nome:Aluno_61 | Curso:Curso_1 | Ano:2019 | Coef:7.00
+Mat:1062 | Nome:Aluno_62 | Curso:Curso_2 | Ano:2020 | Coef:8.00
+Mat:1063 | Nome:Aluno_63 | Curso:Curso_3 | Ano:2021 | Coef:9.00
+Mat:1064 | Nome:Aluno_64 | Curso:Curso_4 | Ano:2022 | Coef:6.00
+Mat:1065 | Nome:Aluno_65 | Curso:Curso_0 | Ano:2018 | Coef:7.00
+Mat:1066 | Nome:Aluno_66 | Curso:Curso_1 | Ano:2019 | Coef:8.00
+Mat:1067 | Nome:Aluno_67 | Curso:Curso_2 | Ano:2020 | Coef:9.00
+Mat:1068 | Nome:Aluno_68 | Curso:Curso_3 | Ano:2021 | Coef:6.00
+Mat:1069 | Nome:Aluno_69 | Curso:Curso_4 | Ano:2022 | Coef:7.00
+Mat:1070 | Nome:Aluno_70 | Curso:Curso_0 | Ano:2018 | Coef:8.00
+Mat:1071 | Nome:Aluno_71 | Curso:Curso_1 | Ano:2019 | Coef:9.00
+Mat:1072 | Nome:Aluno_72 | Curso:Curso_2 | Ano:2020 | Coef:6.00
+Mat:1073 | Nome:Aluno_73 | Curso:Curso_3 | Ano:2021 | Coef:7.00
+Mat:1074 | Nome:Aluno_74 | Curso:Curso_4 | Ano:2022 | Coef:8.00
+Mat:1075 | Nome:Aluno_75 | Curso:Curso_0 | Ano:2018 | Coef:9.00
+Mat:1076 | Nome:Aluno_76 | Curso:Curso_1 | Ano:2019 | Coef:6.00
+Mat:1077 | Nome:Aluno_77 | Curso:Curso_2 | Ano:2020 | Coef:7.00
+Mat:1078 | Nome:Aluno_78 | Curso:Curso_3 | Ano:2021 | Coef:8.00
+Mat:1079 | Nome:Aluno_79 | Curso:Curso_4 | Ano:2022 | Coef:9.00
+Mat:1080 | Nome:Aluno_80 | Curso:Curso_0 | Ano:2018 | Coef:6.00
+Mat:1081 | Nome:Aluno_81 | Curso:Curso_1 | Ano:2019 | Coef:7.00
+Mat:1082 | Nome:Aluno_82 | Curso:Curso_2 | Ano:2020 | Coef:8.00
+Mat:1083 | Nome:Aluno_83 | Curso:Curso_3 | Ano:2021 | Coef:9.00
+Mat:1084 | Nome:Aluno_84 | Curso:Curso_4 | Ano:2022 | Coef:6.00
+Mat:1085 | Nome:Aluno_85 | Curso:Curso_0 | Ano:2018 | Coef:7.00
+Mat:1086 | Nome:Aluno_86 | Curso:Curso_1 | Ano:2019 | Coef:8.00
+Mat:1087 | Nome:Aluno_87 | Curso:Curso_2 | Ano:2020 | Coef:9.00
+Mat:1090 | Nome:Aluno_90 | Curso:Curso_0 | Ano:2018 | Coef:8.00
+Mat:1091 | Nome:Aluno_91 | Curso:Curso_1 | Ano:2019 | Coef:9.00
+Mat:1092 | Nome:Aluno_92 | Curso:Curso_2 | Ano:2020 | Coef:6.00
+Mat:1093 | Nome:Aluno_93 | Curso:Curso_3 | Ano:2021 | Coef:7.00
+Mat:1094 | Nome:Aluno_94 | Curso:Curso_4 | Ano:2022 | Coef:8.00
+Mat:1095 | Nome:Aluno_95 | Curso:Curso_0 | Ano:2018 | Coef:9.00
+Mat:1096 | Nome:Aluno_96 | Curso:Curso_1 | Ano:2019 | Coef:6.00
+Mat:1097 | Nome:Aluno_97 | Curso:Curso_2 | Ano:2020 | Coef:7.00
+Mat:1098 | Nome:Aluno_98 | Curso:Curso_3 | Ano:2021 | Coef:8.00
+Mat:1099 | Nome:Aluno_99 | Curso:Curso_4 | Ano:2022 | Coef:9.00
+Mat:1100 | Nome:Aluno_100 | Curso:Curso_0 | Ano:2018 | Coef:6.00
+Ativos: 98 | Excluidos: 2
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha: 5
+
+===== MAPA DE OCUPACAO =====
+Bloco 1: 459 usados | 53 livres | 89.6%
+Bloco 2: 486 usados | 26 livres | 94.9%
+Bloco 3: 486 usados | 26 livres | 94.9%
+Bloco 4: 486 usados | 26 livres | 94.9%
+Bloco 5: 486 usados | 26 livres | 94.9%
+Bloco 6: 486 usados | 26 livres | 94.9%
+Bloco 7: 486 usados | 26 livres | 94.9%
+Bloco 8: 486 usados | 26 livres | 94.9%
+Bloco 9: 486 usados | 26 livres | 94.9%
+Bloco 10: 486 usados | 26 livres | 94.9%
+Bloco 11: 486 usados | 26 livres | 94.9%
+Bloco 12: 57 usados | 455 livres | 11.1%
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha: 6
+
+===== RELATORIO DE REORGANIZACAO =====
+Antes:
+Blocos: 33
+Ocupacao media: 99.4%
+EficiÛncia total: 99.4%
+Depois:
+Blocos: 33
+Ocupacao media: 97.4%
+EficiÛncia total: 97.4%
+Ganho de eficiencia: -2.0%
+Blocos liberados: 0
+=====================================
+
+=== TP II - ARMAZENAMENTO EM BLOCOS ===
+1. Inserir aluno
+2. Editar aluno
+3. Excluir aluno
+4. Listar registros
+5. Mapa de blocos
+6. Reorganizar arquivo
+0. Sair
+Escolha:
