@@ -20,6 +20,7 @@ Metodologia
 - Metadados armazenam ocupação de cada bloco (ID e bytes utilizados).
 
 Operações Implementadas
+
 - Inserção: aproveita espaços de registros removidos; caso contrário, insere no final.
 - Edição: altera campos; se o novo tamanho exceder o original, realoca o registro.
 - Exclusão lógica: marca registro como removido sem apagá-lo fisicamente.
@@ -28,11 +29,13 @@ Operações Implementadas
 - Reorganização física: gera alunos_reorg.dat com registros ativos, eliminando fragmentação e calculando ganho de eficiência.
 
 Casos de Teste
+
 - Registros variáveis → melhor aproveitamento dos blocos.
 - Registros fixos → maior fragmentação interna.
 - Exclusão lógica → reaproveitamento eficiente de espaço.
 - Reorganização → ganho de eficiência proporcional ao nível de fragmentação existente.
 
 Conclusão
+
 O trabalho atingiu todos os objetivos, implementando um sistema completo de armazenamento em blocos com suporte a registros fixos e variáveis.
 As operações desenvolvidas permitiram analisar, na prática, os impactos da fragmentação e da reorganização, reforçando conceitos fundamentais de Algoritmos e Estruturas de Dados II.
